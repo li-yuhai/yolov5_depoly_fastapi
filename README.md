@@ -73,7 +73,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 感谢原作者
 
-感谢原作者提供的代码，本代码是在此https://github.com/luosaidage/yolov5_server.git基础上进行修改的。作者提供的方式，可以自定义检测的置信度阈值，我之前使用的是如下操作，我不清楚如何调整置信度。
+感谢原作者提供的代码，本代码是在此 https://github.com/luosaidage/yolov5_server.git 基础上进行修改的。作者提供的方式，可以自定义检测的置信度阈值，我之前使用的是如下操作，我不清楚如何调整置信度。
 
 ```python
  #加载你的pt文件
